@@ -160,7 +160,7 @@ applications:
     num_units: 1
     to:
       - '12'
-    channel: 1.7/edge
+    channel: 1.7/stable
   ovn-central:
     charm: ch:ovn-central
     num_units: 3
